@@ -6,11 +6,11 @@ A simple HTML, CSS, and JavaScript code snippet for creating a text typing effec
 
 ## Demo
 
-You can see a live demo [here](link_to_demo).
+You can see a live demo [https://img.shields.io/github/license/supreetvajjarmatti/Text-typing-effect].
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#features)                  
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
